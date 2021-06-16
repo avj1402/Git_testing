@@ -1,5 +1,5 @@
 # untitled
-raj gandu
+raj gandu/chutiya
 A new Flutter project.
 
 ## Getting Started
